@@ -1,1 +1,1 @@
-# jabascript-web
+# javascript-web
